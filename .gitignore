@@ -1,0 +1,7 @@
+# Compiled modules
+__pycache__/
+*.py[co]
+
+# IntelliJ Idea
+*.iml
+/.idea/
